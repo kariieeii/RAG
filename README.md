@@ -1,4 +1,5 @@
-#AI-Powered Knowledge Retrieval System using RAG
+# AI-Powered Knowledge Retrieval System using RAG
+
 •	Designed & developed a Retrieval Augmented Generation (RAG) system that combines traditional search capabilities with generative AI to answer user queries based on the knowledge base for accurate and context aware answers.
 •	Worked on pinecone to create the database, Dense embeddings for similarity matrix, Hugging Face Model LLM for content generation & created a Rest API of the function with the outcome of reducing LLM hallucination by 50%.
 
